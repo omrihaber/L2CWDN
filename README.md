@@ -1,2 +1,2 @@
 # L2CWDN
-A try to implement a given paper
+Tried to implement [this paper](https://ieeexplore.ieee.org/document/8645377)
